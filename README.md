@@ -21,6 +21,7 @@ Este projeto apresenta um Dashboard de Marketing Analytics em **Power BI** para 
 
 * `dados/`: Bases de dados (CSV) utilizadas.
 * `powerbi/`: Arquivo `.pbix` do dashboard Power BI.
+* `quarto/`: Arquivo .qmd e sua versão HTML renderizada.
 * `figma/`: Arquivos relacionados ao protótipo e design no Figma.
 * `README.md`: Este documento.
 * `LICENSE`: Licença do projeto (MIT License).
